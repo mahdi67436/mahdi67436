@@ -1,280 +1,153 @@
-<!-- ================================================================================= -->
-<!--                                GITHUB PROFILE README                               -->
-<!-- ================================================================================= -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahdi;Full+Stack+Developer;AI+Enthusiast;Cyber+Security+Researcher" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Mahdi Islam</h1>
-<h3 align="center">Software Engineer • Security-Oriented Builder • System Architect</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Coding GIF"/>
+</div>
 
-<p align="center">
-  <em>Build simple. Secure deeply. Ship relentlessly.</em>
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 🔭 I'm currently working on **AI-Powered Cyber Security Tools**  
+- 🌱 I'm currently learning **Advanced Machine Learning & Quantum Computing**  
+- 👯 I'm looking to collaborate on **Open Source AI Projects**  
+- 🤝 I'm looking for help with **Cloud Architecture & Distributed Systems**  
+- 💬 Ask me about **Python, C++, Cyber Security, AI/ML**  
+- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+
+<br>
+
+## 🛠️ Tech Stack & Tools
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
+</details>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mahdi67436&icon=0&color=0" alt="profile views"/>
+<details open>
+<summary><b>🤖 AI/ML & Data Science</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
+</details>
 
-<hr/>
-
-<!-- ================================================================================= -->
-<!--                                   EXECUTIVE SUMMARY                                -->
-<!-- ================================================================================= -->
-
-## 🧠 Executive Summary
-
-I am a **system-focused software engineer** working across **low-level, backend, and automation layers**.  
-My approach is grounded in **fundamentals, clarity, and long-term maintainability**.
-
-I believe:
-- performance matters  
-- security is mandatory  
-- simplicity scales  
-- hype expires  
-
-I don’t chase trends.  
-I build **systems that survive real-world pressure**.
-
----
-
-<!-- ================================================================================= -->
-<!--                                   CURRENT FOCUS                                    -->
-<!-- ================================================================================= -->
-
-## 🚀 Current Focus
-
-- 🔭 Building **automation tools, admin dashboards, and backend systems**
-- 🧱 Designing **secure & scalable architectures**
-- 🛡️ Practicing **defensive programming & threat-aware design**
-- 🌱 Learning **advanced backend patterns, OS-level behavior & AI tooling**
-- 🤝 Open to **high-impact collaborations**
-- 💬 Ask me about **C, C++, C#, Python, .NET, Linux**
-- ⚡ Fun fact: I enjoy debugging edge cases more than finishing features
-
----
-
-<!-- ================================================================================= -->
-<!--                                   CORE PRINCIPLES                                  -->
-<!-- ================================================================================= -->
-
-## 🧭 Engineering Principles
-
-- Simple beats clever  
-- Readability beats ego  
-- Security is not optional  
-- Automation beats repetition  
-- If it can break, assume it will  
-- Logs > guesses  
-- Boring tech wins long-term  
-
----
-
-<!-- ================================================================================= -->
-<!--                                   TECHNOLOGY STACK                                 -->
-<!-- ================================================================================= -->
-
-## 🛠️ Technology Stack
-
-### 🔹 Languages & Core
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,bash&perline=5" />
+<details open>
+<summary><b>🌐 Web Development</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
+</details>
 
-### 🔹 Web & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,express,dotnet&perline=5" />
+<details open>
+<summary><b>🔐 Cyber Security & DevOps</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TOR-7D4698?style=for-the-badge&logo=tor-project&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
+</details>
 
-### 🔹 Data, AI & Systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,pytorch&perline=5" />
+<details open>
+<summary><b>🗄️ Databases & Cloud</b></summary>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
+</details>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TOR-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white"/>
-</p>
+<br>
 
----
+## 📊 GitHub Analytics
 
-<!-- ================================================================================= -->
-<!--                                   SKILL BREAKDOWN                                  -->
-<!-- ================================================================================= -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahdi67436&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi67436&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
 
-## 🧩 Skill Breakdown
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi67436&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-### Programming
-- Low-level programming (C / C++)
-- Managed systems (.NET / C#)
-- Scripting & automation (Python, Bash)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi67436&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%"/>
+</div>
 
-### Backend & Systems
-- REST API design
-- Authentication & authorization flows
-- Admin panel architecture
-- State management
-- Error handling & logging
+<br>
 
-### Security Mindset
-- Input validation
-- Least privilege
-- Defense-in-depth
-- Secure defaults
-- Threat modeling (basic to intermediate)
+## 🏆 GitHub Trophies
 
-### Tooling & Environment
-- Linux-based workflows
-- CLI-first development
-- Version control (Git)
-- Build systems & debugging tools
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahdi67436&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
 
----
+<br>
 
-<!-- ================================================================================= -->
-<!--                                   GITHUB METRICS                                   -->
-<!-- ================================================================================= -->
+## 📝 Latest Blog Posts
 
-## 📊 Engineering Metrics
+<!-- BLOG-POST-LIST:START -->
+- [Building AI-Powered Security Tools with Python](https://dev.to/mahdi67436/building-ai-powered-security-tools-with-python)
+- [Getting Started with Quantum Machine Learning](https://dev.to/mahdi67436/quantum-machine-learning-beginners-guide)
+- [Advanced C++ Techniques for High-Performance Computing](https://dev.to/mahdi67436/advanced-cpp-techniques)
+<!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahdi67436&show_icons=true&theme=gruvbox&hide_border=true" />
-  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=mahdi67436&theme=gruvbox&hide_border=true" />
-</p>
+<br>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi67436&layout=compact&theme=gruvbox&hide_border=true" />
-</p>
+## 💡 Random Dev Quote
 
----
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
-<!-- ================================================================================= -->
-<!--                                   PROJECT PHILOSOPHY                               -->
-<!-- ================================================================================= -->
+<br>
 
-## 🧱 Project Philosophy
+## 👁️ Profile Views
 
-When I build a project, I focus on:
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahdi67436&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
+  <img src="https://img.shields.io/github/followers/mahdi67436?style=for-the-badge&logo=github&color=blueviolet" />
+  <img src="https://img.shields.io/github/stars/mahdi67436?style=for-the-badge&logo=github&color=blueviolet" />
+</div>
 
-1. Clear problem definition  
-2. Minimal moving parts  
-3. Predictable behavior  
-4. Explicit error handling  
-5. Secure-by-default decisions  
-6. Documentation over assumptions  
+<br>
 
----
-
-<!-- ================================================================================= -->
-<!--                                   COLLABORATION                                    -->
-<!-- ================================================================================= -->
-
-## 🤝 Collaboration
-
-I’m interested in working with people who value:
-- clarity over chaos  
-- long-term thinking  
-- clean architecture  
-- honest communication  
-
-Good collaboration beats raw talent.
-
----
-
-<!-- ================================================================================= -->
-<!--                                   DAILY WORKFLOW                                   -->
-<!-- ================================================================================= -->
-
-## 🕒 Daily Workflow
-
-- Think before coding  
-- Design on paper (or mind)  
-- Write code once, read many times  
-- Test edge cases  
-- Refactor mercilessly  
-- Document decisions  
-
----
-
-<!-- ================================================================================= -->
-<!--                                   DEV NOTES                                        -->
-<!-- ================================================================================= -->
-
-## ✍️ Dev Notes
-
-> “Most bugs aren’t technical problems — they’re thinking problems.”
-
-> “If you didn’t log it, it didn’t happen.”
-
-> “Security added later is insecurity.”
-
----
-
-<!-- ================================================================================= -->
-<!--                                   LONG FORM FILL (STABILITY / SIZE)                -->
-<!-- ================================================================================= -->
-
-## 📚 Additional Notes
-
-This section intentionally exists to:
-- increase README depth
-- show consistency
-- avoid empty profiles
-- maintain professional weight
-
-I believe profiles should reflect:
-- discipline
-- intent
-- seriousness
-
-Not noise.
-
----
-
-### On Simplicity
-
-Simple systems:
-- are easier to secure  
-- are easier to debug  
-- are easier to scale  
-
-Complex systems:
-- fail silently  
-- confuse teams  
-- rot faster  
-
----
-
-### On Security
-
-Security is not:
-- an afterthought  
-- a plugin  
-- a checkbox  
-
-Security is:
-- a mindset  
-- a habit  
-- a design constraint  
-
----
-
-### On Growth
-
-I focus on:
-- fundamentals first  
-- depth over breadth  
-- boring but strong tools  
-
-Trends come and go.  
-Principles remain.
-
----
-
-<!-- ================================================================================= -->
-<!--                                   FOOTER                                           -->
-<!-- ================================================================================= -->
-
-<p align="center">
-  <sub>Built with discipline • Maintained with intent • No shortcuts</sub>
-</p>
-
-<!-- ================================================================================= -->
-<!--                              END OF README (500+ LINES)                            -->
-<!-- ================================================================================= -->
+<div align="center">
+  <h3>⭐️ From <a href="https://github.com/mahdi67436">mahdi67436</a> ⭐️</h3>
+  <p><i>Code is poetry, programming is art, and debugging is detective work.</i></p>
+</div>
