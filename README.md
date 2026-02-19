@@ -93,7 +93,6 @@
 </details>
 
 <br>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -109,11 +108,13 @@
 </div>
 
 <div align="center">
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdi67436&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdi67436&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%"/>
+  <!-- Contribution Graph -->
+  <img src="https://gh-readme-activity-graph.vercel.app/graph?username=mahdi67436&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" width="100%"/>
 </div>
 
 <br>
@@ -133,7 +134,6 @@
 - [Getting Started with Quantum Machine Learning](https://dev.to/mahdi67436/quantum-machine-learning-beginners-guide)
 - [Advanced C++ Techniques for High-Performance Computing](https://dev.to/mahdi67436/advanced-cpp-techniques)
 <!-- BLOG-POST-LIST:END -->
-
 <br>
 
 ## 💡 Random Dev Quote
