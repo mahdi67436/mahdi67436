@@ -98,8 +98,7 @@
 <div align="center">
 
   <!-- GitHub Total Stats -->
-  <img height="180em" 
-       src="https://gh-readme-stats.hackclub.dev/api?username=mahdi67436&show_icons=true&theme=radical&count_private=true" />
+ 
 
   <!-- Top Languages -->
   <img height="180em" 
